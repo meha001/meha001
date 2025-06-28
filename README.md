@@ -1,2 +1,8 @@
-#
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&color=36BCF7&width=400&center=true&lines=Hello%2C+I+am+Mehrubon!;Nice+to+meet+you!;Welcome+to+my+profile!)
+<div align="center">
+  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&color=FF6B00&width=550&lines=Hello%2C%20my%20name%20is%20Mehrubon!;Welcome%20to%20my%20profile%21)
+
+---
+
+</div>
