@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hello%2C+I+am+Mehrubon" alt="Typing animation" />
-</p>
+<center>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hello%2C+I+am+Mehrubon" alt="Typing animation" />
+  </p>
+</center>
 <!--
 **mehruboni-nabii/mehruboni-nabii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
