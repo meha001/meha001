@@ -1,5 +1,5 @@
 <center>
-  <p>
+  <p align = center>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hello%2C+I+am+Mehrubon" alt="Typing animation" />
   </p>
 </center>
