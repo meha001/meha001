@@ -75,7 +75,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="height:45px;" />
     </td>
-     <td></td>
+     
     <td></td>
   </tr>
 </table>
