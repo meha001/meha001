@@ -112,8 +112,7 @@ Here are a few cool things I've been working on:
 
 ### ⚡ Fun Facts
 - 🎮 I play strategy games and RPGs in my free time  
-- 🧠 I love solving coding puzzles and building logic-based systems  
-- ✨ I always try to make UI/UX feel **alive** with animations and modern styles
+- 🧠 I love solving coding puzzles and building logic-based systems
 - 💪🏽 I try to go to the **gym** every day.
 ---
 
