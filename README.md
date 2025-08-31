@@ -29,12 +29,12 @@
 
 <table align="center" margin-top="15">
   <tr>
-    <td align="center">
+    <!--<td align="center">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="height:45px;" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" style="height:45px;" />
-    </td>
+    </td>-->
     <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="height:45px;" />
     </td>
