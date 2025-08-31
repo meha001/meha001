@@ -44,6 +44,9 @@
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="height:45px;" />
     </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" style="height:45px;" />
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -72,9 +75,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="height:45px;" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" style="height:45px;" />
-    </td>
+     <td></td>
     <td></td>
   </tr>
 </table>
