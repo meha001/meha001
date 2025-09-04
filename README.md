@@ -19,7 +19,7 @@
 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nabiev06)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:https://https://mail.google.com/nmbnc2008)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mehruboni-nabii)  
 
----
+--- 
 
 <span style="margin-bottom: 15px">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pzYTZxNnMzMmZ0dDRlcmI1M2t5ajI1YXU3M3dybWYyd2QxY3JjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="30px" height="30px" align="absmiddle" />
