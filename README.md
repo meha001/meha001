@@ -76,8 +76,8 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="height:45px;" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Flet-0078D4?style=for-the-badge&logo=flet&logoColor=white" style="height:45px;" />
-    </td>
+  <img src="https://img.shields.io/badge/Flet-0078D4?style=for-the-badge&logo=python&logoColor=white" style="height:45px;" />
+</td>
      
     
   </tr>
