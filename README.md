@@ -79,7 +79,7 @@
       <img src="https://img.shields.io/badge/Flet-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="height:45px;" />
     </td>
   <td align="center">
-  <img src="https://img.shields.io/badge/pyTelegramBotAPI-259CD8?style=for-the-badge&logo=telegram&logoColor=white" style="height:45px;" />
+  <img src="https://img.shields.io/badge/pyTelegramBotAPI-259CD8?style=for-the-badge&logo=&logoColor=white" style="height:45px;" />
 </td>
      
     
