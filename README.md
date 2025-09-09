@@ -10,7 +10,7 @@
   <b> About Me </b>
 </span>
 <br> 
-       
+                                                     
 - 🌟 Passionate about **Web Development** and **UI/UX Design** <br>
 - 🔭 Currently working on futuristic programming tasks platform called `Code Sphere` <br>
 - 💬 Ask me about **Python**, **Flask**, **Node.js**, or anything tech-related <br>
@@ -104,15 +104,6 @@
 
 ---
 
-<!--### 📂 Featured Projects
-Here are a few cool things I've been working on:
-
-- 🗂️ [eJournal Admin Panel](https://github.com/yourRepoLink) – Smooth UI, futuristic design for student tracking  
-- 🤖 [SejongAppBackend](https://github.com/yourRepoLink) – Django + MongoDB backend for a course platform  
-- ♟️ [Custom AI Chess](https://github.com/yourRepoLink) – Unique rules and Gemini-powered AI  
-- 🧠 [Contest Tasks Page](https://github.com/yourRepoLink) – Full of dark-glass visuals and real-time countdown logic  
-
---- -->
 
 ### ⚡ Fun Facts
 - 🎮 I play strategy games and RPGs in my free time  
