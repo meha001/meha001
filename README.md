@@ -98,15 +98,24 @@
   <!-- GitHub Stats Row -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=meha001&theme=radical&hide_border=true" style="max-width: 70%;" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meha001&langs_count=10&layout=compact&theme=radical&count_private=false" style="max-width: 48%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meha001&langs_count=10&layout=compact&theme=radical&count_private=false" style="max-width: 50%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=meha001&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" style="max-width: 48%;"/>
   </div>
   <br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=meha001&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+  
+  <br>
   <!-- GitHub Stre111ak -->
-    <img src="https://github-readme-stats.vercel.app/api?username=meha001&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" style="max-width: 48%;"/>
+    
 </div>
 
 ---
-
+### 💻 IDEs/Editors
+  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    
+---
 
 ### ⚡ Fun Facts
 - 🎮 I play strategy games and RPGs in my free time  
