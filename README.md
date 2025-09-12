@@ -33,9 +33,6 @@
 <table align="center" margin-top="15">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" style="height:45px;border-radius:100;" />
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" style="height:45px;" />
     </td>
     <td align="center">
@@ -50,9 +47,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" style="height:45px;" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="height:45px;" />
-    </td>
+    
   </tr>
   <tr>
     <td align="center">
@@ -84,7 +79,9 @@
      <td align="center">
       <img src="https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="height:45px;" />
     </td>
-    
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" style="height:45px;border-radius:100;" />
+    </td>
   </tr>
 </table>
 
