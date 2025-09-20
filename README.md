@@ -54,7 +54,7 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="height:45px;" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="height:45px;" />
+   <img alt="git" src="https://github.com/user-attachments/assets/4347de2e-bccc-42d4-bb7a-f552402eef2f" style="height:45px; width = 100px;" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="height:45px;" />
@@ -74,7 +74,7 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="height:45px;" />
     </td>
      <td align="center">
-      <img src="https://img.shields.io/badge/Flet-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="height:45px;" />
+      <img  alt="flet" src="https://github.com/user-attachments/assets/9a3f3eb3-949b-4181-bc8b-5633f8626b66" style='height:45px;' />
     </td>
      <td align="center">
       <img src="https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="height:45px;" />
