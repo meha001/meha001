@@ -54,7 +54,7 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="height:45px;" />
     </td>
     <td align="center">
-   <img alt="git" src="https://github.com/user-attachments/assets/4347de2e-bccc-42d4-bb7a-f552402eef2f" style="height:45px; whidth:140px;"  />
+   <img alt="git" src="https://github.com/user-attachments/assets/06c9af97-cd23-4bfa-a2c4-cc5b92e8d89a" style = 'height:45px;'/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="height:45px;" />
