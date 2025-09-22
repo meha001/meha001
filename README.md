@@ -20,7 +20,7 @@
 - 🎯 Constantly learning **Backend Scaling** <br>
 - 📫 How to reach me:
 
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nabiev06)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:https://https://mail.google.com/nmbnc2008)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mehruboni-nabii)  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nabiev06)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:https://https://mail.google.com/nmbnc2008)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/meha001)  
 
 --- 
 
@@ -54,7 +54,7 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="height:45px;" />
     </td>
     <td align="center">
-   <img alt="git" src="https://github.com/user-attachments/assets/06c9af97-cd23-4bfa-a2c4-cc5b92e8d89a" style = 'height:45px;'/>
+   <img alt="git" src="https://github.com/user-attachments/assets/06c9af97-cd23-4bfa-a2c4-cc5b92e8d89a" style = 'height:40px; width:60%;'/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="height:45px;" />
