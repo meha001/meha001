@@ -14,9 +14,8 @@
 </span>
 <br> 
                                                      
-- 🌟 Passionate about **Web Development** and **UI/UX Design** <br>
 - 🔭 Currently working on futuristic programming tasks platform called `Code Sphere` <br>
-- 💬 Ask me about **Python**, **Flask**, **Node.js**, or anything tech-related <br>
+- 💬 Ask me about **Python**, **Flask**, **Django**, or anything tech-related <br>
 - 🎯 Constantly learning **Backend Scaling** <br>
 - 📫 How to reach me:
 
