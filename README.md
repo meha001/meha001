@@ -99,7 +99,7 @@
   </div>
   <br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=meha001&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=meha001&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" /> -->
   
   <br>
   <!-- GitHub Stre111ak -->
