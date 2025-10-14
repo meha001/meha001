@@ -98,15 +98,10 @@
         
   </div>
 
-  <!--<img src="https://github-profile-trophy.vercel.app/?username=meha001&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" /> -->
-  
-
-  <!-- GitHub Stre111ak -->
-    
 </div>
 
 
-### My leetcode activity
+---
 
 ![](https://leetcard.jacoblin.cool/meha001?ext=heatmap)
 
