@@ -19,8 +19,7 @@
 - 🎯 Constantly learning **Backend Scaling** <br>
 - 📫 How to reach me:
 
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nabiev06)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:https://https://mail.google.com/nmbnc2008)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/meha001)  
-
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nabiev06)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:https://https://mail.google.com/nmbnc2008)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/meha001)                                           <img src="https://komarev.com/ghpvc/?username=meha001"/>
 --- 
 
 <span style="margin-bottom: 15px">
@@ -95,7 +94,8 @@
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=meha001&theme=radical&hide_border=true" style="max-width: 70%;" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meha001&langs_count=10&layout=compact&theme=radical&count_private=false" style="max-width: 50%;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=meha001&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" style="max-width: 48%;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=meha001&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" style="max-width: 48%;"/>
+        
   </div>
   <br>
   
@@ -114,5 +114,7 @@
 ---
 
 <p align="center">
+  
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
 </p>
