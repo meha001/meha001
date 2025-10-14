@@ -97,11 +97,10 @@
         <img src="https://github-readme-stats.vercel.app/api?username=meha001&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" style="max-width: 48%;"/>
         
   </div>
-  <br>
-  
+
   <!--<img src="https://github-profile-trophy.vercel.app/?username=meha001&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" /> -->
   
-  <br>
+
   <!-- GitHub Stre111ak -->
     
 </div>
