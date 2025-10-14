@@ -106,17 +106,11 @@
     
 </div>
 
----
-<!-- ### 💻 IDEs/Editors
-  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    -->
----
 
-### ⚡ Fun Facts
-- 🎮 I play strategy games and RPGs in my free time  
-- 🧠 I love solving coding puzzles and building logic-based systems
-- 💪🏽 I try to go to the **gym** every day.
+### My leetcode activity
+
+![](https://leetcard.jacoblin.cool/meha001?ext=heatmap)
+
 ---
 
 <p align="center">
