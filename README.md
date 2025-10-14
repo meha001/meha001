@@ -116,5 +116,5 @@
 <p align="center">
   
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
+  [![](https://github-readme-activity-graph.vercel.app/graph?username=meha001&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
