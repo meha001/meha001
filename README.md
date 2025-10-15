@@ -91,16 +91,16 @@
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
 <div align="center">
   <a href="https://github.com/tranthaituananh">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tranthaituananh&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tranthaituananh&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
-    <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=tranthaituananh&theme=material&radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meha001&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meha001&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=meha001&theme=material&radius=10" />
   </a>
 </div>
 
 ---
 <div align="center">
   :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
-  &copy; 2023 Tran Thai Tuan Anh
+  &copy; 2023 Nabiev Mehrubon
 </div>
 
 
