@@ -84,31 +84,23 @@
 </table>
 
 ---
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdsb3NlaWx6eDc4aXR0YWNpMmJ6dWI1c2hrNDBxYWdoaTRrd3hxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkGLJIKYcgCYrxdpks/giphy.gif" width="30px" height="30px" 
- align = "absmiddle"/> <b> Github Stats </b>
-
-<div align="center">
-
-  <!-- GitHub Stats Row -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=meha001&theme=radical&hide_border=true" style="max-width: 70%;" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meha001&langs_count=10&layout=compact&theme=radical&count_private=false" style="max-width: 50%;" />
-        <img src="https://github-readme-stats.vercel.app/api?username=meha001&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" style="max-width: 48%;"/>
-        
-  </div>
-
-</div>
-
-
----
-
 ![](https://leetcard.jacoblin.cool/meha001?ext=heatmap)
 
 ---
 
-<p align="center">
-  
-  
-  [![](https://github-readme-activity-graph.vercel.app/graph?username=meha001&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
+<div align="center">
+  <a href="https://github.com/tranthaituananh">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tranthaituananh&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tranthaituananh&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=tranthaituananh&theme=material&radius=10" />
+  </a>
+</div>
+
+---
+<div align="center">
+  :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
+  &copy; 2023 Tran Thai Tuan Anh
+</div>
+
+
