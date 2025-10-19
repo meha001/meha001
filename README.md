@@ -69,7 +69,7 @@
       <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" style='height:45px;' />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="height:45px;" />
+      <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff" style="height:45px;" />
     </td>
      <td align="center">
       <img  alt="flet" src="https://github.com/user-attachments/assets/9a3f3eb3-949b-4181-bc8b-5633f8626b66" style='height:45px;' />
