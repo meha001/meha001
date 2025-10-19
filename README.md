@@ -75,7 +75,7 @@
       <img  alt="flet" src="https://github.com/user-attachments/assets/9a3f3eb3-949b-4181-bc8b-5633f8626b66" style='height:45px;' />
     </td>
      <td align="center">
-      <img src="https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="height:45px;" />
+      <img src="https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="height:45px;border-radius:10px;" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" style="height:45px;border-radius:100;" />
