@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="height:45px;" />
+      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" style='height:45px;' />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="height:45px;" />
