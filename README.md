@@ -55,7 +55,7 @@
    <img alt="git" src="https://github.com/user-attachments/assets/06c9af97-cd23-4bfa-a2c4-cc5b92e8d89a" style = 'height:40px; width:60%;'/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff" style="height:45px;"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="height:45px;" />
